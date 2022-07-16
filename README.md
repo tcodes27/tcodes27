@@ -2,7 +2,7 @@
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tcodes27&theme=dark&show_icons=true " />
 
-<img  align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcodes27&layout=compact)]" />
+<img  align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcodes27&layout=compact)]" />
 
 <br />
 <br />
