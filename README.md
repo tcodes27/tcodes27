@@ -1,11 +1,7 @@
 ### Hi there, Welcome to my Profile! 👋
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tcodes27&theme=dark&show_icons=true " />
+<a href="https://ibb.co/Sv5xg8H"><img src="https://i.ibb.co/KybGgkB/tbcodes-banner-1.png" alt="tbcodes-banner-1" border="0"></a>
 
-<img  align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcodes27&layout=compact)]" />
-
-<br />
-<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
