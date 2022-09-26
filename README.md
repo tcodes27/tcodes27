@@ -20,5 +20,3 @@
 
 ###### More information coming soon! 
 
-### Stats
-![Tierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcodes27&theme=dark&show_icons=true)
