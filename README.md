@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Profile! 👋
 
-<a href="https://ibb.co/8cdL63F"><img src="https://i.ibb.co/WtP4g9S/tbcodes-1banner.png" alt="tbcodes-1banner" border="0"></a>
+
 <br />
 
 #### My projects includes, but not limited to: 
